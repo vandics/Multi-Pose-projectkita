@@ -5,3 +5,4 @@
 ## WAJIB!!!
 - Open CV (pip install opencv)
 - python, anaconda disarankan (kalau mau pake google colab masih tidak bisa pake webcam, jadinya harus pake yang offline)
+- Penambahan program estimasi pose menggunakan mediapipe yang dapat langsung menyimpan koordinat dari titik pose
